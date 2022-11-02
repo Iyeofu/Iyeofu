@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Iyeofu
+- 👋 Hi, I’m @samuel ojile
 - 👀 I’m interested web development and game development.
 - 🌱 I’m a student at Landmark University 
 - 💞️ I’m looking getting a certification at ALX
