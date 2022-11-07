@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @samuel ojile
-- 👀 I’m interested web development and game development.
-- 🌱 I’m a student at Landmark University 
-- 💞️ I’m looking getting a certification at ALX
+- 👋 Hi, I’m Samuel Ojile
+- 👀 I’m an aspiring sofware engineer and cloud computing expert 
+- 🌱 I’m a student at Landmark University and @HolbertonSchool
+- 💞️ I’m also a sprinter and introvert
 - 📫 How to reach me samuelojile44@gmail.com
 
 <!---
