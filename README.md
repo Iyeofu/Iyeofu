@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Samuel Ojile
-- 👀 I’m an aspiring sofware engineer and cloud computing expert 
-- 🌱 I’m a student at Landmark University and @HolbertonSchool
-- 💞️ I’m also a sprinter and introvert
+- 👀 I’m an aspiring sofware engineer and Frontend Developer
+- 🌱 I’m a Graduate of Landmark University
+- 💞️ I’m also a sprinter and a Financial Trader
 - 📫 How to reach me samuelojile44@gmail.com
 
 <!---
