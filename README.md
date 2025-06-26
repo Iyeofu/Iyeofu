@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Samuel Ojile
-- 👀 I’m a Frontend Developer
+- 👋 Hi, I’m Samuel
+- 👀 I’m a Full Stack Developer
 - 🌱 I’m a Graduate of Landmark University
-- 💞️ I’m also a sprinter and a Financial Trader
+- 💞️ I’m also a Financial Trader
 - 📫 How to reach me samuelojile44@gmail.com
 
 <!---
